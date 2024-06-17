@@ -7,7 +7,7 @@ The best premium plugins, for free!
 
 ## Authors
 
-- [@Snowypy](https://github.com/snowypy) - Main Contributor
 - [@Invisgg](https://github.com/invisgg) - Main Contributor
+- [@Snowypy](https://github.com/snowypy) - Main Contributor
 - [@Qeid](https://github.com/Qeid) - Messages Contributor
 
