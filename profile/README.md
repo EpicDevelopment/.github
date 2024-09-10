@@ -20,8 +20,8 @@ This org contains the source code for plugin by Vandal Development, These can be
 
 ## 📜 Table of Products
 
-[✨ Vandal](https://github.com/EpicDevelopment/Vandal)
-[🔒 WatchTower](https://github.com/EpicDevelopment/WatchTower)
-[💤 Away](https://github.com/EpicDevelopment/Away)
-[🌠 Astra](https://github.com/EpicDevelopment/Astra)
+[✨ Vandal](https://github.com/EpicDevelopment/Vandal)  
+[🔒 WatchTower](https://github.com/EpicDevelopment/WatchTower)  
+[💤 Away](https://github.com/EpicDevelopment/Away)  
+[🌠 Astra](https://github.com/EpicDevelopment/Astra)  
 [👻 Ghost](https://github.com/EpicDevelopment/Ghost) **🚧**
