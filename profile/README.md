@@ -4,7 +4,7 @@
 
 <h1>Vandal Development</h1>  
 
-This org contains the source code for plugin by Vandal Development, These can be found below. If given access to any private repos, please do not leak them :)  
+This org contains the source code for plugins by Vandal Development, These can be found below. If given access to any private repos, please do not leak them :)  
 </div>
 
 > [!CAUTION]
