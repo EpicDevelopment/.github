@@ -20,7 +20,7 @@ This org contains the source code for plugins by Vandal Development, These can b
 
 > [!IMPORTANT]
 > # Version Checker
-> The version checker is hosted using **Github Pages** outside of this org. You can find it by clicking [Here](https://github.com/snowypy/vandal-version) request access my contacting [Snowy](https://github.com/snowypy)
+> The version checker is hosted using **Github Pages** outside of this org. You can find it by clicking [Here](https://github.com/snowypy/vandal-version) request access by contacting [@snowypy](https://github.com/snowypy)
 
 > [!NOTE]
 > ## 📜 Table of Products
