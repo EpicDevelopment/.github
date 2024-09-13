@@ -18,10 +18,15 @@ This org contains the source code for plugins by Vandal Development, These can b
 > - APIKEY
 > - Discord Token  
 
-## 📜 Table of Products
+> [!IMPORTANT]
+> # Version Checker
+> The version checker is hosted using **Github Pages** outside of this org. You can find it by clicking [Here](https://github.com/snowypy/vandal-version) request access my contacting [Snowy](https://github.com/snowypy)
 
-[✨ Vandal](https://github.com/EpicDevelopment/Vandal)  
-[🔒 WatchTower](https://github.com/EpicDevelopment/WatchTower)  
-[💤 Away](https://github.com/EpicDevelopment/Away)  
-[🌠 Astra](https://github.com/EpicDevelopment/Astra)  
-[👻 Ghost](https://github.com/EpicDevelopment/Ghost) **🚧**
+> [!NOTE]
+> ## 📜 Table of Products
+> 
+> [✨ Vandal](https://github.com/EpicDevelopment/Vandal)  
+> [🔒 WatchTower](https://github.com/EpicDevelopment/WatchTower)  
+> [💤 Away](https://github.com/EpicDevelopment/Away)  
+> [🌠 Astra](https://github.com/EpicDevelopment/Astra)  
+> [👻 Ghost](https://github.com/EpicDevelopment/Ghost) **🚧**
